@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Igual que la variable "bg" (fondo) de la calculadora en modo
+         oscuro, su tema por defecto, para que no se note un parpadeo de
+         otro color antes de que cargue la página. -->
+    <color name="bg_dark">#0F172A</color>
+
+    <!-- Fondo del icono adaptativo: gris muestreado de las esquinas del
+         propio icon-512.png del repo (que ya lleva ese fondo "horneado" en
+         el PNG), para que no se note un anillo de color distinto en el
+         hueco que deja el margen de seguridad del primer plano. -->
+    <color name="ic_launcher_background">#E0E1E0</color>
+</resources>
